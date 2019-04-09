@@ -10,7 +10,7 @@ Not using Microsoft Defender ATP? If you haven't yet, experience how you can eff
 
 # Suggestions and Feedback
 
-We maintain a backlog of suggested sample Power BI templates in the project issues page. Feel free to comment, rate, or provide suggestions. We value your feedback. Let us know if you run into any problems or share your suggestions by sending email to wdatpqueriesfeedback@microsoft.com.
+We maintain a backlog of suggested sample Power BI templates in the project issues page. Feel free to comment, rate, or provide suggestions. We value your feedback. Let us know if you run into any problems or share your suggestions by adding an entry into the issues section.
 
 # Contributing
 
